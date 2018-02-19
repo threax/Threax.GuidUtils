@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threax.GuidUtils", "Threax.GuidUtils\Threax.GuidUtils.csproj", "{BBE74AE6-EC40-4504-84EC-BD9586B0FCEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE74AE6-EC40-4504-84EC-BD9586B0FCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE74AE6-EC40-4504-84EC-BD9586B0FCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE74AE6-EC40-4504-84EC-BD9586B0FCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE74AE6-EC40-4504-84EC-BD9586B0FCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFC70D1A-D119-4519-A3ED-32E3BF1E0E0B}
+	EndGlobalSection
+EndGlobal
