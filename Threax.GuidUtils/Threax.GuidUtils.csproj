@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <IncludeSymbols>True</IncludeSymbols>
+    <IncludeSource>True</IncludeSource>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Authors>Andrew Piper</Authors>
   </PropertyGroup>
 
 </Project>
