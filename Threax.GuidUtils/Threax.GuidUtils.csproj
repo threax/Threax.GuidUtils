@@ -7,6 +7,7 @@
     <IncludeSource>True</IncludeSource>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <Authors>Andrew Piper</Authors>
+    <Version>1.0.0-pre1</Version>
   </PropertyGroup>
 
 </Project>
